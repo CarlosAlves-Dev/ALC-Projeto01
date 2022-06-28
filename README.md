@@ -4,15 +4,19 @@ e a ∈ R, escreva um algoritmo, com complexidade
 O(n), que aloque em y o vetor ax + y.
 <br />Linguagem Utilizada:  C
 
-### Código-Fonte
-#include <stdio.h>
 
-int main(void){
+### Código-Fonte
+
+
+   
+   int main(void){
+    <br>
+    
+    
     int n,i;
     float a;
     n = 0; i = 0;
-
-
+    
     printf("Digite o valor de a: ");
     scanf("%f", &a);
 
